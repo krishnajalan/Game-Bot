@@ -1,8 +1,9 @@
-numpy
-scikit-learn
-scikit-image
-pillow
-tensorflow
-keras
-pynput
-h5py
+numpy== 1.19.5
+scikit-image==0.17.2
+scikit-learn==0.24.2
+Pillow==8.4.0
+tensorflow==2.6.2
+keras==2.6.0
+pynput==1.7.5
+h5py==3.1.0
+scipy==1.1.0
